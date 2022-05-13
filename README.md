@@ -19,4 +19,3 @@ Framework Use:
 •	Google and Gighub use firebase authentication 
 •	React firebase hook use 
 •	React bootstrap sue etc. 
-
